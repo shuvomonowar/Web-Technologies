@@ -1,0 +1,20 @@
+[
+    {
+        "FullName": "Eye Blinking",
+        "UserName": "eye",
+        "Gender": "Male",
+        "Email": "hasankamal@gmail.com",
+        "MobileNo": "01678432984",
+        "Country": "Bangladesh",
+        "Password": "123"
+    },
+    {
+        "FullName": "Monowar Hossain Shuvo",
+        "UserName": "shuvomonowar",
+        "Gender": "Male",
+        "Email": "monowarhossain41998@gmail.com",
+        "MobileNo": "01817495936",
+        "Country": "Bangladesh",
+        "Password": "12345678"
+    }
+]
